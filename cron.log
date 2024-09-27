@@ -1,0 +1,325 @@
+Traceback (most recent call last):
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 24, in log_speed
+    with open("./log/wifi_speed.log", "a") as log_file:
+FileNotFoundError: [Errno 2] No such file or directory: './log/wifi_speed.log'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 32, in <module>
+    log_speed()
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 28, in log_speed
+    with open("./log/wifi_speed.log", "a") as log_file:
+FileNotFoundError: [Errno 2] No such file or directory: './log/wifi_speed.log'
+Traceback (most recent call last):
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 24, in log_speed
+    with open("./log/wifi_speed.log", "a") as log_file:
+FileNotFoundError: [Errno 2] No such file or directory: './log/wifi_speed.log'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 32, in <module>
+    log_speed()
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 28, in log_speed
+    with open("./log/wifi_speed.log", "a") as log_file:
+FileNotFoundError: [Errno 2] No such file or directory: './log/wifi_speed.log'
+Traceback (most recent call last):
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 24, in log_speed
+    with open("./log/wifi_speed.log", "a") as log_file:
+FileNotFoundError: [Errno 2] No such file or directory: './log/wifi_speed.log'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 32, in <module>
+    log_speed()
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 28, in log_speed
+    with open("./log/wifi_speed.log", "a") as log_file:
+FileNotFoundError: [Errno 2] No such file or directory: './log/wifi_speed.log'
+Traceback (most recent call last):
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 24, in log_speed
+    with open("./log/wifi_speed.log", "a") as log_file:
+FileNotFoundError: [Errno 2] No such file or directory: './log/wifi_speed.log'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 32, in <module>
+    log_speed()
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 28, in log_speed
+    with open("./log/wifi_speed.log", "a") as log_file:
+FileNotFoundError: [Errno 2] No such file or directory: './log/wifi_speed.log'
+Traceback (most recent call last):
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 24, in log_speed
+    with open("./log/wifi_speed.log", "a") as log_file:
+FileNotFoundError: [Errno 2] No such file or directory: './log/wifi_speed.log'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 32, in <module>
+    log_speed()
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 28, in log_speed
+    with open("./log/wifi_speed.log", "a") as log_file:
+FileNotFoundError: [Errno 2] No such file or directory: './log/wifi_speed.log'
+Traceback (most recent call last):
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 24, in log_speed
+    with open("./log/wifi_speed.log", "a") as log_file:
+FileNotFoundError: [Errno 2] No such file or directory: './log/wifi_speed.log'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 32, in <module>
+    log_speed()
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 28, in log_speed
+    with open("./log/wifi_speed.log", "a") as log_file:
+FileNotFoundError: [Errno 2] No such file or directory: './log/wifi_speed.log'
+Traceback (most recent call last):
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 24, in log_speed
+    with open("./log/wifi_speed.log", "a") as log_file:
+FileNotFoundError: [Errno 2] No such file or directory: './log/wifi_speed.log'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 32, in <module>
+    log_speed()
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 28, in log_speed
+    with open("./log/wifi_speed.log", "a") as log_file:
+FileNotFoundError: [Errno 2] No such file or directory: './log/wifi_speed.log'
+Traceback (most recent call last):
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 24, in log_speed
+    with open("./log/wifi_speed.log", "a") as log_file:
+FileNotFoundError: [Errno 2] No such file or directory: './log/wifi_speed.log'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 32, in <module>
+    log_speed()
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 28, in log_speed
+    with open("./log/wifi_speed.log", "a") as log_file:
+FileNotFoundError: [Errno 2] No such file or directory: './log/wifi_speed.log'
+Traceback (most recent call last):
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 24, in log_speed
+    with open("./log/wifi_speed.log", "a") as log_file:
+FileNotFoundError: [Errno 2] No such file or directory: './log/wifi_speed.log'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 32, in <module>
+    log_speed()
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 28, in log_speed
+    with open("./log/wifi_speed.log", "a") as log_file:
+FileNotFoundError: [Errno 2] No such file or directory: './log/wifi_speed.log'
+Traceback (most recent call last):
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 24, in log_speed
+    with open("./log/wifi_speed.log", "a") as log_file:
+FileNotFoundError: [Errno 2] No such file or directory: './log/wifi_speed.log'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 32, in <module>
+    log_speed()
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 28, in log_speed
+    with open("./log/wifi_speed.log", "a") as log_file:
+FileNotFoundError: [Errno 2] No such file or directory: './log/wifi_speed.log'
+Traceback (most recent call last):
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 24, in log_speed
+    with open("./log/wifi_speed.log", "a") as log_file:
+FileNotFoundError: [Errno 2] No such file or directory: './log/wifi_speed.log'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 32, in <module>
+    log_speed()
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 28, in log_speed
+    with open("./log/wifi_speed.log", "a") as log_file:
+FileNotFoundError: [Errno 2] No such file or directory: './log/wifi_speed.log'
+Traceback (most recent call last):
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 24, in log_speed
+    with open("./log/wifi_speed.log", "a") as log_file:
+FileNotFoundError: [Errno 2] No such file or directory: './log/wifi_speed.log'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 32, in <module>
+    log_speed()
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 28, in log_speed
+    with open("./log/wifi_speed.log", "a") as log_file:
+FileNotFoundError: [Errno 2] No such file or directory: './log/wifi_speed.log'
+Traceback (most recent call last):
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 24, in log_speed
+    with open("./log/wifi_speed.log", "a") as log_file:
+FileNotFoundError: [Errno 2] No such file or directory: './log/wifi_speed.log'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 32, in <module>
+    log_speed()
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 28, in log_speed
+    with open("./log/wifi_speed.log", "a") as log_file:
+FileNotFoundError: [Errno 2] No such file or directory: './log/wifi_speed.log'
+Traceback (most recent call last):
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 24, in log_speed
+    with open("./log/wifi_speed.log", "a") as log_file:
+FileNotFoundError: [Errno 2] No such file or directory: './log/wifi_speed.log'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 32, in <module>
+    log_speed()
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 28, in log_speed
+    with open("./log/wifi_speed.log", "a") as log_file:
+FileNotFoundError: [Errno 2] No such file or directory: './log/wifi_speed.log'
+Traceback (most recent call last):
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 24, in log_speed
+    with open("./log/wifi_speed.log", "a") as log_file:
+FileNotFoundError: [Errno 2] No such file or directory: './log/wifi_speed.log'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 32, in <module>
+    log_speed()
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 28, in log_speed
+    with open("./log/wifi_speed.log", "a") as log_file:
+FileNotFoundError: [Errno 2] No such file or directory: './log/wifi_speed.log'
+Traceback (most recent call last):
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 24, in log_speed
+    with open("./log/wifi_speed.log", "a") as log_file:
+FileNotFoundError: [Errno 2] No such file or directory: './log/wifi_speed.log'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 32, in <module>
+    log_speed()
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 28, in log_speed
+    with open("./log/wifi_speed.log", "a") as log_file:
+FileNotFoundError: [Errno 2] No such file or directory: './log/wifi_speed.log'
+Traceback (most recent call last):
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 24, in log_speed
+    with open("./log/wifi_speed.log", "a") as log_file:
+FileNotFoundError: [Errno 2] No such file or directory: './log/wifi_speed.log'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 32, in <module>
+    log_speed()
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 28, in log_speed
+    with open("./log/wifi_speed.log", "a") as log_file:
+FileNotFoundError: [Errno 2] No such file or directory: './log/wifi_speed.log'
+Traceback (most recent call last):
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 24, in log_speed
+    with open("./log/wifi_speed.log", "a") as log_file:
+FileNotFoundError: [Errno 2] No such file or directory: './log/wifi_speed.log'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 32, in <module>
+    log_speed()
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 28, in log_speed
+    with open("./log/wifi_speed.log", "a") as log_file:
+FileNotFoundError: [Errno 2] No such file or directory: './log/wifi_speed.log'
+Traceback (most recent call last):
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 24, in log_speed
+    with open("./log/wifi_speed.log", "a") as log_file:
+FileNotFoundError: [Errno 2] No such file or directory: './log/wifi_speed.log'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 32, in <module>
+    log_speed()
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 28, in log_speed
+    with open("./log/wifi_speed.log", "a") as log_file:
+FileNotFoundError: [Errno 2] No such file or directory: './log/wifi_speed.log'
+Traceback (most recent call last):
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 24, in log_speed
+    with open("./log/wifi_speed.log", "a") as log_file:
+FileNotFoundError: [Errno 2] No such file or directory: './log/wifi_speed.log'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 32, in <module>
+    log_speed()
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 28, in log_speed
+    with open("./log/wifi_speed.log", "a") as log_file:
+FileNotFoundError: [Errno 2] No such file or directory: './log/wifi_speed.log'
+Traceback (most recent call last):
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 24, in log_speed
+    with open("./log/wifi_speed.log", "a") as log_file:
+FileNotFoundError: [Errno 2] No such file or directory: './log/wifi_speed.log'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 32, in <module>
+    log_speed()
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 28, in log_speed
+    with open("./log/wifi_speed.log", "a") as log_file:
+FileNotFoundError: [Errno 2] No such file or directory: './log/wifi_speed.log'
+Traceback (most recent call last):
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 24, in log_speed
+    with open("./log/wifi_speed.log", "a") as log_file:
+FileNotFoundError: [Errno 2] No such file or directory: './log/wifi_speed.log'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 32, in <module>
+    log_speed()
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 28, in log_speed
+    with open("./log/wifi_speed.log", "a") as log_file:
+FileNotFoundError: [Errno 2] No such file or directory: './log/wifi_speed.log'
+Traceback (most recent call last):
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 24, in log_speed
+    with open("./log/wifi_speed.log", "a") as log_file:
+FileNotFoundError: [Errno 2] No such file or directory: './log/wifi_speed.log'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 32, in <module>
+    log_speed()
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 28, in log_speed
+    with open("./log/wifi_speed.log", "a") as log_file:
+FileNotFoundError: [Errno 2] No such file or directory: './log/wifi_speed.log'
+Traceback (most recent call last):
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 24, in log_speed
+    with open("./log/wifi_speed.log", "a") as log_file:
+FileNotFoundError: [Errno 2] No such file or directory: './log/wifi_speed.log'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 32, in <module>
+    log_speed()
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 28, in log_speed
+    with open("./log/wifi_speed.log", "a") as log_file:
+FileNotFoundError: [Errno 2] No such file or directory: './log/wifi_speed.log'
+Traceback (most recent call last):
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 24, in log_speed
+    with open("./log/wifi_speed.log", "a") as log_file:
+FileNotFoundError: [Errno 2] No such file or directory: './log/wifi_speed.log'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 32, in <module>
+    log_speed()
+  File "/home/jeff/src/scripts/speedtest/speedtest.py", line 28, in log_speed
+    with open("./log/wifi_speed.log", "a") as log_file:
+FileNotFoundError: [Errno 2] No such file or directory: './log/wifi_speed.log'
