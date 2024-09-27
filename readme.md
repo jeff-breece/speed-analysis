@@ -43,9 +43,9 @@ To set up a cron job that runs this script every 30 minutes, follow these steps:
 *Replace `/path/to/the/script/` with the actual path where you saved the script.*
 
 ### Notes:
-- The log file is saved at `/var/log/wifi_speed.log`. You might need to adjust the path depending on the permissions or preferences.
+- The log file is saved at `/path/to/the/script/log/wifi_speed.log`. You might need to adjust the path depending on the permissions or preferences.
 - Ensure that the script path is correct in the crontab entry.
-- You can check the log file with `cat /var/log/wifi_speed.log` or similar commands.
+- You can check the log file with `cat /path/to/the/script/log/wifi_speed.log` or one of the report scripts in the repo.
 - This script will now run every 30 minutes, measuring and logging the WiFi connection speeds on the Ubuntu machine.
 
 ### Error Handling
